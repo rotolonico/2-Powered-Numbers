@@ -17,7 +17,7 @@ public class Main {
         try {
 
             Scanner s = new Scanner(System.in);
-            System.out.print("Insert max 2 powered value ");
+            System.out.println("Insert max 2 powered value ");
             int numbergiven = s.nextInt();
             int number = 1;
             while (number<=numbergiven){
